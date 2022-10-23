@@ -33,7 +33,7 @@ https://simpleicons.org/?q=react
    <!------------------------------------SHIELDS STACKS-->
    
   <!--
-  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+  <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
 <a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
    <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
@@ -52,129 +52,58 @@ https://simpleicons.org/?q=react
 
    <!------------------------------------SUMMARY-->
 <p align="center">
-  <a href="https://github.com/DIGOARTHUR/Dashgo#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/Contentpage#--sobre-a-aplica%C3%A7%C3%A3o-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/Contentpage#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/Contentpage#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/Contentpage#-rodando-a-aplica%C3%A7%C3%A3o">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- a href="https://github.com/DIGOARTHUR/Dashgo#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;--!>
 </p>  
 
   
   
    <!------------------------------------DESCRIPTION-->
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Essa é uma aplicação voltado para o desenvolvimento de Dashboard que aborda apresentação e exemplo de autenticação de login, implementação de uso de gráficos, crud de usuários, listagem. Aqui o destaque vai para o uso do ChakraUI para estilização, MirageJS para implementar uma API no FrontEnd, Autenticação JTW e o uso do ReactQuery para a otimização de carregamento de dado na página.
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401332-8a63c531-bd11-4995-b8ff-98d384f18cb3.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
+> Esse foi um projeto desenvolvido no curso de Desenvolvimento WEB do professor Igor Oliveira. O objetivo do projeto é de colocar em prática os aprendizados iniciais em HTML e CSS.
   
   
 <!------------------------------------LAYOUT -->
-
-
-## FIGMA 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
-  
-<a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
-
-    
-
-## DESKTOP
-  
-|                             Tela de Login                             |
-| :-------------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/193430890-d28d0594-c8fd-4c95-9418-26a82d0e7495.png) |
-
-  
-  |                               Dashboard                               |
-| :-------------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/193430860-14d266a3-2f2d-4efb-bca2-e5ed665e0401.png)|
-
-  
-|                             Usuários                             |
-| :--------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/193430900-adee4696-c0b2-4232-bed4-3e2728024594.png)|
-  
-
-  |                             Criar Usuário                              |
-| :--------------------------------------------------------------------: |
-|  ![image](https://user-images.githubusercontent.com/59892368/193430907-9c67952d-daa3-4a9c-ae1a-cc901f63eaf4.png)|
-
-
-
-|                            Ferramenta React Query                       |
-| :--------------------------------------------------------------------: |
-|  ![image](https://user-images.githubusercontent.com/59892368/193430914-bb77702f-7159-430f-bfb2-031e003f41b3.png)|
-  
-
+<img src="https://user-images.githubusercontent.com/104440384/197402009-1428900a-d3a8-4ea9-af6d-02e360e69be5.png" alt="tela1" width="300"/> <img src="https://user-images.githubusercontent.com/104440384/197402011-1ed5ba3f-61d3-4f30-a9f3-1ce48e01db6d.png" alt="tela2" width="300"/> <img src="https://user-images.githubusercontent.com/104440384/197402012-1269580f-6be8-4110-b34e-ec325ce43ff3.png" alt="tela3" width="300"/>
 
   
   
   
   <!------------------------------------PRODUCTION SKILLS-->
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401378-9a96dbaf-852f-430e-87e9-74934c9e10f3.png"> Pontos Abordados: <!---write here: learned concepts; -->
 
   
-* JavaScript
-  * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com transformação de valores, conteúdo)
-  * [`Async/await`](https://www.w3schools.com/js/js_async.asp) 
+* HTML
+  * [`Div`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div) Foram utilizadas divs para criar o topbar, content, footer.
+  * [`h1`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements) [`h2`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)  utilizados para títulos e subtítulos;
+  * [`small`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/small) utilizado para exibir uma fonte pequena;
+  * [`figure`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/figure) para exibir imagens;
+  * [`p`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/p) utilizado de forma semântica para parágrafos;
+  * [`img`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img) utilizado para inserir imagens no html.
+  
 * CSS
-  * [`Global Style`]()
-     * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
-     * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
-  * [`Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (Posicionamento de elementos)
-* React
-  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
-  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
-* [`NextJS`](https://nextjs.org/docs/getting-started) 
-  * `Estrutura` (Estruturação de pastas e arquivos)
-  * `Estilização`(Aplicação de CSS) 
-  * `Variáveis Ambientes` (Uso de variáveis ambiente) 
-  * `Rotas` (Aplicação de rotas para API) 
-  * `API Routes`
-     * `Parametrização nas rotas` (Framework para React) 
-*  [`ChakraUI`](https://chakra-ui.com) (Biblioteca de componentes do React que facilita a construção da IU de uma aplicação)
-*  [`MirageJS`](https://miragejs.com) (Biblioteca de simulação de API que permite criar, testar e compartilhar um aplicativo JavaScript completo e funcional sem precisar depender de nenhum serviço de back-end.)
-*  [`React Query`](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) (Ferramenta que otimiza a busca, armazenamento em cache e atualização dos dados remotos) 
+  * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para determinar a fonte do projeto;
+  * [`text-align`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para alinhar o conteúdo;
+  * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height) para definir a distância entre as linhas do texto;
+  * [`border-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom) para definir a borda inferior de um elemento;
+  * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)[`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) para definir a área de preenchimento e as bordas dos elementos;
+  * dentre outros...
   
  
   <!------------------------------------RUN APP-->
  
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401454-395a60af-ec72-4b68-b3b0-3595f8fb8dfe.png"> Rodando a Aplicação
  
 
-1. Clonar repositório:
+Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/Dashgo.git
-```
-
-2. Instalar dependências
-
-```
-yarn install
-```
-
-3. Rodar aplicativo
-
-```
-yarn dev
-```
-
-4. Acesse `http://localhost:3000/` e navegue pelo site
-
-:warning: 5. Trocar URL do repositorio remoto (caso necessário)
-
-  5.1 Ver qual o repositorio atual
-```
-git remote -v
-```
-  5.2 Mudar a URL do repositorio remoto
-```
-git remote set-url origin <LinkDoNovoRepositorio>
-```
-  5.3 Verifique se a mudança foi realizada
-```
-git remote -v
+git clone https://github.com/nataliasguimaraes/Contentpage.git
 ```
 
 
@@ -183,10 +112,8 @@ git remote -v
 
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
- Esse foi um dos projetos mais legais dentro do IGNITE trilha ReactJS. A [@Rocketseat](https://github.com/Rocketseat) sempre trazendo novidades a cada aplicação, ferramentas que abrem fronteiras para aplicação e criatividade em projetos pessoais e profissionais.
-
- ---
-Só tenho agradecer ♥
+ 
+ Esse foi o meu primeiro projeto hospedado no Github. :)
   
   
   
